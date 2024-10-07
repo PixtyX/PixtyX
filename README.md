@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning tech related stuff
 - 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me, Discord: Pixty#6926 
+- 📫 How to reach me, Discord: pixty
 
 <!---
 PixtyX/PixtyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
